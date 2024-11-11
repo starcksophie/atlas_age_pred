@@ -34,7 +34,7 @@ The code uses magnetic resonance imaging (MRI) data from the UK Biobank dataset.
 }
 ```
 ## Acknowledgements
-This repo makes extensive usage of the VoxelMorph library: https://github.com/YaduKini/AgeFormer
+This repo makes extensive usage of the library: https://github.com/YaduKini/AgeFormer
 
 ## Contact
 
